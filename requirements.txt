@@ -1,0 +1,5 @@
+pandas
+ipykernel
+plotly
+nbformat
+streamlit
